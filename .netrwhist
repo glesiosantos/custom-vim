@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/glesio/workspace/loja_virtual'
+let g:netrw_dirhist_5='/home/glesio/workspace/loja_virtual/lib'
+let g:netrw_dirhist_4='/home/glesio/workspace/loja_virtual'
+let g:netrw_dirhist_3='/home/glesio/workspace/tdd_ruby/hello-cucumber/features/step_definitions'
+let g:netrw_dirhist_2='/home/glesio/workspace/tdd_ruby/hello-cucumber/features'
+let g:netrw_dirhist_1='/home/glesio/workspace/tdd_ruby/hello-cucumber'
+let g:netrw_dirhist_0='/home/glesio/workspace/tdd_ruby'
+let g:netrw_dirhist_9='/home/glesio/workspace/loja_virtual/lib'
+let g:netrw_dirhist_8='/home/glesio/workspace/loja_virtual'
+let g:netrw_dirhist_7='/home/glesio/workspace/loja_virtual/lib'
