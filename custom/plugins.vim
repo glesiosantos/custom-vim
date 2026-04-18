@@ -18,4 +18,7 @@ Plug 'honza/vim-snippets'
 " Para comentário de linhas
 Plug 'tpope/vim-commentary'
 
+" Para trabalhar com rubocop
+Plug 'dense-analysis/ale'
+
 call plug#end()
